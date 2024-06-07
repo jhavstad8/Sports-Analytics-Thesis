@@ -11,3 +11,6 @@ Some resources you will find in this repository include:
 * a table of sports analytics courses from various universities and their prerequisites, materials, websites, and difficulty level at this link: https://docs.google.com/spreadsheets/d/10gco1JtF-Xgxoe5xzPJk7xTQiRDFqS6lkUDSzLqDfbk/edit?usp=sharing
 * a table with miscellaneous resourcs that either were recommended to me or that I came across through my research at this link: https://docs.google.com/spreadsheets/d/1VpHyXHuW3cX5ezmovEF0I6Wg2qHU9hXG-Ds4Iy98pP8/edit?usp=sharing
 * a pdf of my recommended course proposal for an advanced, undergraduate sports analytics course at Cal Poly, San Luis Obispo
+
+The PDFs should be available to download. 
+If you have any questions, please email me at jhavstad8@gmail.com

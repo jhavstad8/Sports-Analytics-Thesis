@@ -1,4 +1,4 @@
-# Sports Analytics Thesis
+# Sports Analytics Thesis Resources
 This repository contains information that I, Josh Havstad, have collected throughout my thesis research into sports analytics education. 
 This information is meant to help instructors and students of sports analytics courses, with the hopes of furthering education in the field.
 Through online research and the help of the sports analytics community, I have course syllabi, textbooks and readings, lessons and assignments, data sources/sets, and more.
